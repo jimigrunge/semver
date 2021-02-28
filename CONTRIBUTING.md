@@ -15,9 +15,9 @@ Some changes do not require an RFC:
 
 ## What the process is
 
-When pull requests are opened against the specification or this repository, they may be
-tagged with an "RFC" tag ("RFC" from here forward). RFCs require the consensus of
-all team members (see below) to merge.
+When a pull request ("PR" from here forward) is opened against the specification or
+this repository, it may be tagged with an "RFC" tag ("RFC" from here forward).
+RFCs require the consensus of all team members (see below) to merge.
 
 ## The SemVer Team
 
@@ -27,12 +27,13 @@ Team members are added and removed based on the consensus of the existing team m
 
 The maintainers are:
 
-* anangaur (NuGet)
-* dherman (Notion)
-* indirect (Bundler)
-* isaacs (NPM)
-* segiddins (CocoaPods)
-* steveklabnik (Cargo)
+* [anangaur](https://github.com/anangaur) ([NuGet](https://www.nuget.org/))
+* [dherman](https://github.com/dherman) ([Notion](https://www.notionjs.com/))
+* [indirect](https://github.com/indirect) ([Bundler](https://bundler.io/))
+* [isaacs](https://github.com/isaacs) ([npm](https://www.npmjs.com/))
+* [segiddins](https://github.com/segiddins) ([CocoaPods](https://cocoapods.org/))
+* [steveklabnik](https://github.com/steveklabnik) ([Cargo](https://crates.io/))
+* [Seldaek](https://github.com/Seldaek) ([Composer](https://getcomposer.org/))
 
 ## Participation commitment
 
